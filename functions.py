@@ -33,6 +33,6 @@ def display_quotes(quotes, count):
         print("All Quotes:")
         view_quotes(quotes)
     else:
-        print(f"First {count} Quotes:")
+        print("First {count} Quotes:")
         for i in range(count):
             print_quote(quotes[i])
