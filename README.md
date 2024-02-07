@@ -3,7 +3,7 @@
 GROUPE A
 Initiateur: HUANG Edric
 
-Contributeur 1: BOURICH Théo            URL Fork:
+Contributeur 1: BOURICH Théo            URL Fork: https://github.com/cryo-ghost/quotes-huang-a.git
 
 Contributeur 2: DUPILLE Benjamin        URL Fork: https://github.com/arca-bob/quotes-huang-a.git
 
