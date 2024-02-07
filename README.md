@@ -7,4 +7,4 @@ Contributeur 1: BOURICH Théo            URL Fork:
 
 Contributeur 2: DUPILLE Benjamin        URL Fork:
 
-Contributeur 3: DIAW Ndeye Seynabou     URL Fork:
+Contributeur 3: DIAW Ndeye Seynabou     URL Fork: https://github.com/Zaaynab10/quotes-seynabou-a.git
