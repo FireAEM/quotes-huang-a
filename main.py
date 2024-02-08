@@ -1,6 +1,5 @@
 from functions import *
 
-
 def menu():
     print("\n==== Programming Quotes ====")
     print("random : Random quote")
